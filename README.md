@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
