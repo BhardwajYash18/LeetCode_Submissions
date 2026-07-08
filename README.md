@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0051-n-queens) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0198-house-robber) |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
