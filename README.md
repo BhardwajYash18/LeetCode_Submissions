@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -176,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0051-n-queens](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0052-n-queens-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
