@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0061-rotate-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0092-reverse-linked-list-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
