@@ -213,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0059-spiral-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
