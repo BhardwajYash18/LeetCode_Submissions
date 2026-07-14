@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0101-symmetric-tree) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
