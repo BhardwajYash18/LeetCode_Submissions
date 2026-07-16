@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0061-rotate-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
