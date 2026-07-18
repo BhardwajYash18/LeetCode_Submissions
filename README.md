@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Divide and Conquer
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
