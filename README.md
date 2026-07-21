@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
