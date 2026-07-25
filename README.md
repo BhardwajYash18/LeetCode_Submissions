@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
