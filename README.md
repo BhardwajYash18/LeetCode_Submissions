@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0061-rotate-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
