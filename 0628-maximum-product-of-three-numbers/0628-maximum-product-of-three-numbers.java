@@ -1,0 +1,11 @@
+import java.util.Arrays;
+class Solution {
+    public int maximumProduct(int[] nums) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        int pos_ans = nums[n-1]*nums[n-2]*nums[n-3];
+        int neg_ans = nums[0]*nums[1]*nums[n-1];
+
+        return Math.max(pos_ans,neg_ans);
+    }
+}
