@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0443-string-compression) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
