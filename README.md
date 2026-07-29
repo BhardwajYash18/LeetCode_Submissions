@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0090-subsets-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0198-house-robber) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0051-n-queens](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0052-n-queens-ii) |
+| [0090-subsets-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
 | ------- |
