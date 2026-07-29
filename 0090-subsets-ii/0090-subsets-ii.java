@@ -3,15 +3,19 @@ class Solution {
         Arrays.sort(nums);
         List<List<Integer>> result = new ArrayList<>();
         result.add(new ArrayList<>());
+        int start = 0, end = 0;
 
-        for(int num : nums){
+        for (int i = 0 ; i < nums.length ; i++) {
+            start = 0;
+            if (i > 0 && nums[i] == nums[i-1]) start = end + 1;
+
+            end = result.size() - 1;
             int size = result.size();
-            for(int i = 0; i< size ; i++){
-                List<Integer> subset = new ArrayList<>(result.get(i));
-                subset.add(num);
-                if (!result.contains(subset)){
-                    result.add(subset);
-                }
+
+            for (int j = start ; j < size ; j++) {
+                List<Integer> subset = new ArrayList<>(result.get(j));
+                subset.add(nums[i]);
+                result.add(subset);
             }
         }
         return result;
