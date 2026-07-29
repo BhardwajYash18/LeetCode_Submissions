@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0016-3sum-closest) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
