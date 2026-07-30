@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -308,9 +310,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
