@@ -8,12 +8,10 @@ class Solution {
         Arrays.sort(freq);
 
         int ans = 0;
-        int idx = 0;
 
         for (int i = 25; i >= 0; i--) {
             if (freq[i] == 0) break;
-            ans += freq[i] * (idx / 8 + 1);
-            idx++;
+            ans += freq[i] * ((25-i)/ 8 + 1);
         }
         return ans;
     }
