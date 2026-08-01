@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [1796-second-largest-digit-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
