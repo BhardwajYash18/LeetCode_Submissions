@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0225-implement-stack-using-queues) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 ## Greedy
