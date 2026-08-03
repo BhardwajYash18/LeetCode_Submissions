@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
