@@ -2,11 +2,9 @@ class Solution {
     public List<Integer> findMissingElements(int[] nums) {
         List<Integer> result = new ArrayList<>();
         Arrays.sort(nums);
-        int curr = nums[0];
-        for (int i = 0 ; i < nums.length ; curr++,i++){
-            if (curr < nums[i]) {
-                result.add(curr);
-                i--;
+        for (int i = 0 ; i < nums.length-1 ; i++) {
+            for (int j = nums[i]+1 ; j < nums[i+1] ; j++) {
+                result.add(j);
             }
         }
         return result;
