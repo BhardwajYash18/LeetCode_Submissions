@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
+| [3310-remove-methods-from-project](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [3310-remove-methods-from-project](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3310-remove-methods-from-project) |
 ## Array
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
