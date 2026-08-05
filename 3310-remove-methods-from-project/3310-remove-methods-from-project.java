@@ -1,51 +1,51 @@
 class Solution {
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
-        List<Integer>[] edges = new ArrayList[n];
-        for (int i = 0 ; i < n ; i++) {
-            edges[i] = new ArrayList<>();
+        List<Integer>[] graph = new ArrayList[n];
+        for (int i = 0; i < n; i++) {
+            graph[i] = new ArrayList<>();
         }
-        int[] incoming = new int[n];
-        boolean[] isCorrupt = new boolean[n];
-        isCorrupt[k] = true;
-        for (int[] arr : invocations) {
-            edges[arr[0]].add(arr[1]);
-            incoming[arr[1]]++;
+
+        for (int[] edge : invocations) {
+            graph[edge[0]].add(edge[1]);
         }
+
+        boolean[] bugged = new boolean[n];
 
         Queue<Integer> q = new ArrayDeque<>();
         q.offer(k);
-        while (!q.isEmpty()) {
-            int num = q.poll();
-            for (int v : edges[num]) {
-                incoming[v]--;
+        bugged[k] = true;
 
-                if (!isCorrupt[v]) {
+        while (!q.isEmpty()) {
+            int u = q.poll();
+
+            for (int v : graph[u]) {
+                if (!bugged[v]) {
+                    bugged[v] = true;
                     q.offer(v);
-                    isCorrupt[v] = true;
                 }
             }
         }
 
-        boolean remAll = true;
-        List<Integer> remain = new ArrayList<>();
+        for (int[] edge : invocations) {
+            int u = edge[0];
+            int v = edge[1];
 
-        for (int i = 0 ; i < n ; i++) {
-            if (isCorrupt[i] && incoming[i] > 0) {
-                remAll = false;
-                break;
-            }
-            else if (!isCorrupt[i]) {
-                remain.add(i);
+            if (!bugged[u] && bugged[v]) {
+                List<Integer> ans = new ArrayList<>();
+                for (int i = 0; i < n; i++) {
+                    ans.add(i);
+                }
+                return ans;
             }
         }
-        if (!remAll) {
-            List<Integer> all_nodes = new ArrayList<>(n);
-            for (int i = 0 ; i < n ; i++) {
-                all_nodes.add(i);
+
+        List<Integer> ans = new ArrayList<>();
+        for (int i = 0; i < n; i++) {
+            if (!bugged[i]) {
+                ans.add(i);
             }
-            return all_nodes;
         }
 
-        return remain;
+        return ans;
     }
 }
