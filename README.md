@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0917-reverse-only-letters) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
+| [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [1796-second-largest-digit-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
