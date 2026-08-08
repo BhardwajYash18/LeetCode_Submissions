@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0917-reverse-only-letters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1796-second-largest-digit-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
