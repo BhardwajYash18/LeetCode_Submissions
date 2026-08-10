@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0097-interleaving-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0097-interleaving-string) |
 | [0227-basic-calculator-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
+| [0434-number-of-segments-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0443-string-compression) |
 | [0917-reverse-only-letters](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0917-reverse-only-letters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
