@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3024-type-of-triangle) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 ## Counting
 |  |
 | ------- |
@@ -401,10 +404,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 ## Sliding Window
 |  |
 | ------- |
@@ -421,4 +426,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3024-type-of-triangle) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
