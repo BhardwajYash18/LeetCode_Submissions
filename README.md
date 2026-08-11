@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0016-3sum-closest) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
