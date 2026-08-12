@@ -448,4 +448,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
