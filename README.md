@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1260-shift-2d-grid](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 ## Enumeration
 |  |
 | ------- |
