@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0917-reverse-only-letters) |
+| [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1903-largest-odd-number-in-string) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
+| [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1903-largest-odd-number-in-string) |
