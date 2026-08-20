@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0371-sum-of-two-integers) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1386-cinema-seat-allocation](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1260-shift-2d-grid](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1386-cinema-seat-allocation](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
