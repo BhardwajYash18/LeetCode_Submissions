@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1903-largest-odd-number-in-string) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1386-cinema-seat-allocation](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1796-second-largest-digit-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1796-second-largest-digit-in-a-string) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
