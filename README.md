@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3024-type-of-triangle) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0059-spiral-matrix-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
