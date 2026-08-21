@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
