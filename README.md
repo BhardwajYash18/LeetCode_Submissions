@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0872-leaf-similar-trees) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [3310-remove-methods-from-project](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3310-remove-methods-from-project) |
