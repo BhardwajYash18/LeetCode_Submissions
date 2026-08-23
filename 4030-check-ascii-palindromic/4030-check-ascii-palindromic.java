@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPalindromic(String s) {
-        StringBuilder sb = new StringBuilder();
+        StringBuffer sb = new StringBuffer();
         for (char c : s.toCharArray()){
             int num = (int) c;
             sb.append(toBinary(num));
