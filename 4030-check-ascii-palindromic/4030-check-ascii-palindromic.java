@@ -3,12 +3,9 @@ class Solution {
         StringBuffer sb = new StringBuffer();
         for (char c : s.toCharArray()){
             int num = (int) c;
-            sb.append(toBinary(num));
+            sb.append(String.format("%8s", Integer.toBinaryString(num)).replace(' ', '0'));
         } 
         return pallindrome(sb.toString());
-    }
-    private String toBinary(int num) {
-        return String.format("%8s", Integer.toBinaryString(num)).replace(' ', '0');
     }
     private boolean pallindrome(String s) {
         for (int i = 0; i < s.length()/2 ; i++) {
