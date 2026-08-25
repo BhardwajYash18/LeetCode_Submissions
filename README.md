@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1386-cinema-seat-allocation](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1927-sum-game) |
 ## Counting
 |  |
@@ -487,11 +491,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -503,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
