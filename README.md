@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0896-monotonic-array) |
@@ -554,4 +556,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
