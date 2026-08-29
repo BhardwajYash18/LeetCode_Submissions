@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
+| [1227-airplane-seat-assignment-probability](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Game Theory
 |  |
@@ -568,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
