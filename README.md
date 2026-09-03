@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0396-rotate-function](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0704-binary-search) |
@@ -584,9 +587,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0739-daily-temperatures](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1227-airplane-seat-assignment-probability) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
