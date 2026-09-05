@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0147-insertion-sort-list) |
+| [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -605,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
