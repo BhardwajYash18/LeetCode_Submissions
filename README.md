@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0224-basic-calculator) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0120-triangle) |
