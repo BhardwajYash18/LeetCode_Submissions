@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
+| [0275-h-index-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0275-h-index-ii) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0396-rotate-function](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0396-rotate-function) |
