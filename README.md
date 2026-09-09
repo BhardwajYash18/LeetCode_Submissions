@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0396-rotate-function](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0396-rotate-function) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0147-insertion-sort-list) |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
