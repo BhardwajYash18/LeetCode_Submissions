@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0938-range-sum-of-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |
