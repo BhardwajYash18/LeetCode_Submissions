@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0147-insertion-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
@@ -634,4 +637,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
