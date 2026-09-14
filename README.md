@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
@@ -641,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
