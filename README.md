@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0016-3sum-closest) |
+| [0031-next-permutation](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
