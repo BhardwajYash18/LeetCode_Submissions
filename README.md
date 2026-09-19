@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
@@ -655,4 +656,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
