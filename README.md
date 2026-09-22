@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
