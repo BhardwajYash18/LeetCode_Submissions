@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0097-interleaving-string) |
