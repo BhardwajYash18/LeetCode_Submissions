@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1796-second-largest-digit-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
