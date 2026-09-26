@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0051-n-queens) |
+| [0057-insert-interval](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
