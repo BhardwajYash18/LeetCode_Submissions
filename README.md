@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0275-h-index-ii) |
+| [0441-arranging-coins](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
 | [0371-sum-of-two-integers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0504-base-7) |
