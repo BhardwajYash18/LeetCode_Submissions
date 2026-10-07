@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0434-number-of-segments-in-a-string) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0093-restore-ip-addresses) |
+| [0301-remove-invalid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
