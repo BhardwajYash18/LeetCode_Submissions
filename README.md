@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0147-insertion-sort-list) |
+| [0445-add-two-numbers-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0227-basic-calculator-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0371-sum-of-two-integers) |
 | [0396-rotate-function](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0504-base-7) |
