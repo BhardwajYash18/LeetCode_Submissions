@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0275-h-index-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0275-h-index-ii) |
 | [0441-arranging-coins](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
+| [0540-single-element-in-a-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
+| [0540-single-element-in-a-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0739-daily-temperatures) |
