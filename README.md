@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0392-is-subsequence) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
@@ -504,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0093-restore-ip-addresses) |
+| [0257-binary-tree-paths](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
