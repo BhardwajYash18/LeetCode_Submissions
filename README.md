@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
