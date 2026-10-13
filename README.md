@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0147-insertion-sort-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Geometry
 |  |
 | ------- |
