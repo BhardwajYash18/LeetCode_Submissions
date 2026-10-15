@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0836-rectangle-overlap](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
 | [1227-airplane-seat-assignment-probability](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -779,4 +781,12 @@ A collection of LeetCode questions to ace the coding interview!
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
