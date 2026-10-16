@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2778-sum-of-squares-of-special-elements](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3024-type-of-triangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3024-type-of-triangle) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -789,4 +791,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
