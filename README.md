@@ -360,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3731-find-missing-elements) |
 ## Union-Find
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3731-find-missing-elements) |
 ## Matrix
