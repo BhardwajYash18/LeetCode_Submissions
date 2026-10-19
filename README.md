@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0147-insertion-sort-list) |
+| [0169-majority-element](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0274-h-index) |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -773,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 ## Doubly-Linked List
 |  |
