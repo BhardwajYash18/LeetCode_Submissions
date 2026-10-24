@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3024-type-of-triangle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
