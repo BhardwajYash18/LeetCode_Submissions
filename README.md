@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0324-wiggle-sort-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0324-wiggle-sort-ii) |
 | [0396-rotate-function](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0396-rotate-function) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0396-rotate-function](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0504-base-7) |
