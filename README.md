@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0680-valid-palindrome-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0876-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1254-number-of-closed-islands](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
