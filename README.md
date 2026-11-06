@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0896-monotonic-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1254-number-of-closed-islands](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1260-shift-2d-grid) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0728-self-dividing-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0877-stone-game) |
+| [0989-add-to-array-form-of-integer](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/1154-day-of-the-year) |
