@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0115-distinct-subsequences](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0224-basic-calculator) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0227-basic-calculator-ii) |
