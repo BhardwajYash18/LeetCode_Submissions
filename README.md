@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0198-house-robber](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0213-house-robber-ii) |
+| [0228-summary-ranges](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/BhardwajYash18/LeetCode_Submissions/tree/master/0274-h-index) |
